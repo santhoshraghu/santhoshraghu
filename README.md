@@ -1,17 +1,13 @@
-                                                                                ### Hi there 👋, I'm Santosh
+### Hi there 👋, I'm Santosh
 #### Application Development Associate (2YOE)
 
-<!--
-**santhoshraghu/santhoshraghu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’ve previously worked at ... Accenture
+-🌱 I’m currently pursuing ... Master's in Data Science - Worcester Polytechnic Institute - 25
+- 📫 How to reach me: ... noruganty@wpi.edu
+- Resume: [SantoshOrugantyResume.pdf](https://github.com/santhoshraghu/santhoshraghu/files/15206096/SantoshOrugantyResume.pdf)
+- 😄 Pronouns: ... He/Him/His
+- ⚡ Fun fact: "GROWTH OCCURS WHEN ONE GOES BEYOND ONE’S LIMITS. REALIZING THAT IS ALSO PART OF TRAINING” – ITACHI UCHIHA
+  
