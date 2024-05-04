@@ -1,5 +1,5 @@
-                                                                              Hi there 👋, I'm Santosh
-                                                                        Application Development Associate (2YOE)
+#                                                                              Hi there 👋, I'm Santosh
+#                                                                        Application Development Associate (2YOE)
 
 
 
