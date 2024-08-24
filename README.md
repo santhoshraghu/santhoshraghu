@@ -1,5 +1,5 @@
 ##                                                                              Hi there 👋, I'm Santosh
-###                                                                        Application Development Associate (2YOE)
+###                                                                        Artitficial Intelligence Intern | Research Assistant | Graduate Learning Assistant | Application Development Associate (2YOE)
 
 
 
