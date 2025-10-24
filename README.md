@@ -9,6 +9,6 @@
 - Machine Learning Engineering Intern @ TRUELight Energy
 - Master's in Data Science @  Worcester Polytechnic Institute-25
 - Email : ... noruganty@wpi.edu / orugantysantosh@gmail.com
-- Resume: [SantoshOrugantyResume.pdf]ps://github.com/santhoshraghu/santhoshraghu/blob/main/NityaPhaniSantoshOrugantyResume.pdf)
+- Resume: [SantoshOrugantyResume.pdf](https://github.com/santhoshraghu/santhoshraghu/blob/main/NityaPhaniSantoshOrugantyResume.pdf)
 - Pronouns: ... He/Him/His
   
